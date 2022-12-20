@@ -22,24 +22,6 @@
 | [dfilinov/models/tsne_84.bf](dfilinov/models/tsne_84.bf)                   | Финальная версия трансформера*            |
 | [dfilinov/models/kmeans_84.bf](dfilinov/models/kmeans_84.bf)               | Финальная версия модели*                  |
 | [dfilinov/figures](dfilinov/figures)                                       | Графики                                   |
-| [dfilinov/preprocessing.ipynb](d1ffic00lt/preprocessing.ipynb)             | Предобработка данных                      |
-| [dfilinov/model.ipynb](d1ffic00lt/model.ipynb)                             | Модель для получения границ               |
-| [dfilinov/models](d1ffic00lt/models)                                       | Все тестируемые модели                    |
-| [dfilinov/models/tsne_84.bf](d1ffic00lt/models/tsne_84.bf)                 | Финальная версия трансформера*            |
-| [dfilinov/models/kmeans_84.bf](d1ffic00lt/models/kmeans_84.bf)             | Финальная версия модели*                  |
-| [dfilinov/figures](d1ffic00lt/figures)                                     | Графики                                   |
-| [d1ffic00lt/preprocessing.ipynb](dfilinov/preprocessing.ipynb)             | Предобработка данных                      |
-| [d1ffic00lt/model.ipynb](dfilinov/model.ipynb)                             | Модель для получения границ               |
-| [d1ffic00lt/models](dfilinov/models)                                       | Все тестируемые модели                    |
-| [d1ffic00lt/models/tsne_84.bf](dfilinov/models/tsne_84.bf)                 | Финальная версия трансформера*            |
-| [d1ffic00lt/models/kmeans_84.bf](dfilinov/models/kmeans_84.bf)             | Финальная версия модели*                  |
-| [d1ffic00lt/figures](dfilinov/figures)                                     | Графики                                   |
-| [d1ffic00lt/preprocessing.ipynb](d1ffic00lt/preprocessing.ipynb)           | Предобработка данных                      |
-| [d1ffic00lt/model.ipynb](d1ffic00lt/model.ipynb)                           | Модель для получения границ               |
-| [d1ffic00lt/models](d1ffic00lt/models)                                     | Все тестируемые модели                    |
-| [d1ffic00lt/models/tsne_84.bf](d1ffic00lt/models/tsne_84.bf)               | Финальная версия трансформера*            |
-| [d1ffic00lt/models/kmeans_84.bf](d1ffic00lt/models/kmeans_84.bf)           | Финальная версия модели*                  |
-| [d1ffic00lt/figures](d1ffic00lt/figures)                                   | Графики                                   |
 
 ## База данных:
 
