@@ -1,4 +1,4 @@
-<h1 align="center">Накрутка отзывов</h1>
+<h1 align="center">Накрутка отзывов <img src="https://media.discordapp.net/attachments/572705890524725248/1054876323224494130/image.png" height="32"/></h1>
 <h2 align="center">Тинькофф. Юридические лица </h2>
 
 ## Состав команды ПобеDano
@@ -14,14 +14,20 @@
 | Имя файла или папки                                                        | Описание                                  |
 |----------------------------------------------------------------------------|-------------------------------------------|
 | [data](data)                                                               | Папка с исходными о обработанными данными |
+| [dfilinov](dfilinov)                                                       | Папка Филинова Дмитрий                    |
+| [v.arkh](v.arkh)                                                           | Папка Архипова Владимира                  |
+| [Дмитрий_Утенков](Дмитрий_Утенков)                                         | Папка Утенкова Дмитрия                    |
 | [data/tinkoff_legal_entities_new.csv](data/tinkoff_legal_entities_new.csv) | Исходные данные                           |
 | [data/clean_data.csv](data/clean_data.csv)                                 | Данные без пустых значений                |
+| [data/data_all_clear.csv](data/data_all_clear.csv)                         | Данные без пустых значений и выбросов     |
+| [model.ipynb](dfilinov/model.ipynb)                                        | Модель для получения границ               |
+| [models](dfilinov/models)                                                  | Все тестируемые модели                    |
+| [models/tsne_84.bf](dfilinov/models/tsne_84.bf)                            | Финальная версия трансформера*            |
+| [models/kmeans_84.bf](models/kmeans_84.bf)                                 | Финальная версия модели*                  |
+| [figures](figures)                                                         | Графики                                   |
 | [dfilinov/preprocessing.ipynb](dfilinov/preprocessing.ipynb)               | Предобработка данных                      |
-| [dfilinov/model.ipynb](dfilinov/model.ipynb)                               | Модель для получения границ               |
-| [dfilinov/models](dfilinov/models)                                         | Все тестируемые модели                    |
-| [dfilinov/models/tsne_84.bf](dfilinov/models/tsne_84.bf)                   | Финальная версия трансформера*            |
-| [dfilinov/models/kmeans_84.bf](dfilinov/models/kmeans_84.bf)               | Финальная версия модели*                  |
-| [dfilinov/figures](dfilinov/figures)                                       | Графики                                   |
+| [v.arkh/scoring_and_graphs.ipynb](v.arkh/scoring_and_graphs.ipynb)         | Какие-то графики и популярность           |
+| [Дмитрий_Утенков/Task.ipynb](Дмитрий_Утенков/Task.ipynb)                   | Удаление выбросов                         |
 
 ## База данных:
 
